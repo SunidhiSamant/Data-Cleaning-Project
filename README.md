@@ -1,2 +1,2 @@
-# Data-Cleaning-Project-
+# Data-Cleaning-Project
 Data is cleaned using SQL
